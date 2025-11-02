@@ -1,0 +1,4 @@
+repo-secret.yaml
+*-secret.yaml
+*.key
+*.pem
